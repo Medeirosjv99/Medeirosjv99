@@ -10,7 +10,7 @@ Atualmente, curso Sistemas para Internet no Instituto Federal do Paraná, onde a
 ### Meus conhecimentos:
 
  <div>
-  <a href="https://github.com/Medeirosjv">
+  <a href="https://github.com/Medeirosjv99">
   <img height="180cm" src="https://github-readme
 </div>
 <div style="display: inline_block"><br>
@@ -34,9 +34,9 @@ Atualmente, curso Sistemas para Internet no Instituto Federal do Paraná, onde a
  
 ### Minhas Estatísticas do GitHub:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medeirosjv&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medeirosjv99&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosjv&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosjv99&layout=compact)
 
   ##
   
