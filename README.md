@@ -1,9 +1,10 @@
 ### About Me:
 
-Opa, prazer, eu sou o João Vitor, tenho 21 anos e sou do Brasil!!
-Profissional de Tecnologia da Informação com mais de 5 anos de experiência na área. Atualmente, atuo como Analista de Sistemas na empresa Raio de Luz Religiosos, sendo responsável pela manutenção e atualização de sistemas, redes e rotinas de backup, além de prestar suporte técnico e orientar sobre boas práticas e segurança digital.
-Iniciei minha carreira como técnico de informática, realizando manutenção de equipamentos, instalação de sistemas e suporte técnico. Essa base me proporcionou uma visão ampla das necessidades tecnológicas das empresas, contribuindo para uma atuação mais estratégica e integrada.
-Atualmente, curso Sistemas para Internet no Instituto Federal do Paraná, onde aprofundo meus conhecimentos em programação, desenvolvimento de sistemas e arquitetura de software. Estou em constante busca por aprendizado e inovação, visando sempre oferecer soluções eficientes e atualizadas.
+Desenvolvedor FullStacks na Vexur, estudando de Tecnologia para sistemas de internet no Instituto Federal do Paraná.
+
+Comecei a atuar na área da Informática como técnico de informática aos 17 anos, trabalhei por 4 anos como técnico e em conjunto despertou minha experiência na programação, onde conclui cursos de HTML, CSS, JavaScript, React, TypeScript. 
+
+Atualmente sou dev Full stack na Vexur, onde consigo ganhar experiencias e aprendizado.
 
   ##
 
