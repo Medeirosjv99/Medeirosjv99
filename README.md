@@ -2,7 +2,7 @@
 
 Desenvolvedor FullStacks na Vexur, estudando de Tecnologia para sistemas de internet no Instituto Federal do Paraná.
 
-Comecei a atuar na área da Informática como técnico de informática aos 17 anos, trabalhei por 4 anos como técnico e em conjunto despertou minha experiência na programação, onde conclui cursos de HTML, CSS, JavaScript, React, TypeScript. 
+Comecei a atuar na área da Informática como técnico de informática aos 17 anos, trabalhei por 4 anos como técnico e em conjunto despertou minha experiência na programação, onde conclui cursos de HTML, CSS, JavaScript, React, TypeScript, Git e GitHub.
 
 Atualmente sou dev Full stack na Vexur, onde consigo ganhar experiencias e aprendizado.
 
