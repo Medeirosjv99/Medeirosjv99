@@ -15,18 +15,36 @@ Atualmente sou dev Full stack na Vexur, onde consigo ganhar experiencias e apren
   <img height="180cm" src="https://github-readme
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="joao-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="joao-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="joao-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img align="center" alt="joao-sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="joao-Neo4j" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" /> 
-  <img align="center" alt="joao-mongoo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="joao-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-HTML5-ff5900?style=for-the-badge&logo=HTML5&logoColor=white" target="_blank">
+  </a> 
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-CSS3-00aaff?style=for-the-badge&logo=CSS3&logoColor=white" target="_blank">
+  </a>  
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-React-5785ff?style=for-the-badge&logo=React&logoColor=white" target="_blank">
+  </a>  
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-JavaScript-ffe400?style=for-the-badge&logo=JavaScript&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-TypeScript-0800ff?style=for-the-badge&logo=TypeScript&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-NodeJS-00f36f?style=for-the-badge&logo=Node.JS&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-npm-ff3600?style=for-the-badge&logo=npm&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-Express-8fe0ff?style=for-the-badge&logo=Express&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-Sequelize-63b3ff?style=for-the-badge&logo=Sequelize&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-Neo4j-0083ff?style=for-the-badge&logo=Neo4j&logoColor=white" target="_blank">
+  </a>
   <a href="" target="_blank">
   <img src="https://img.shields.io/badge/-MongoDB-68ed00?style=for-the-badge&logo=MongoDB&logoColor=white" target="_blank">
   </a>
@@ -34,10 +52,10 @@ Atualmente sou dev Full stack na Vexur, onde consigo ganhar experiencias e apren
   <img src="https://img.shields.io/badge/-MYSQL-5785ff?style=for-the-badge&logo=MYSQL&logoColor=white" target="_blank">
   </a>
   <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-github-f5f5f5?style=for-the-badge&logo=github&logoColor=black" target="_blank">
+  <img src="https://img.shields.io/badge/-Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black" target="_blank">
   </a>
   <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-git-FF5733?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Git-FF5733?style=for-the-badge&logo=Git&logoColor=white" target="_blank">
   </a>
     
    </div>
