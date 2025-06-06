@@ -19,7 +19,7 @@ Atualmente sou dev Full stack na Vexur, onde consigo ganhar experiencias e apren
   <img src="https://img.shields.io/badge/-HTML5-ff5900?style=for-the-badge&logo=HTML5&logoColor=white" target="_blank">
   </a> 
   <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-CSS3-00aaff?style=for-the-badge&logo=CSS3&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-CSS3-00aaff?style=for-the-badge&logo=CSS&logoColor=white" target="_blank">
   </a>  
   <a href="" target="_blank">
   <img src="https://img.shields.io/badge/-React-5785ff?style=for-the-badge&logo=React&logoColor=white" target="_blank">
