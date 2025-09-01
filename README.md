@@ -77,7 +77,8 @@ Atualmente sou dev Full stack na Vexur, onde consigo ganhar experiencias e apren
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosjv99&layout=compact)
 
   ##
-  
+
+### Minhas Certificações
 </div>
 
 
