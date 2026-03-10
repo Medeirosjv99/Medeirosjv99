@@ -1,4 +1,4 @@
-### About Me:
+
 
 <h1 align="center">Olá 👋, eu sou João Vitor de Medeiros</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
