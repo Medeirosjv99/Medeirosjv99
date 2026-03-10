@@ -1,5 +1,15 @@
 ### About Me:
 
+<h1 align="center">Olá 👋, eu sou João Vitor de Medeiros</h1>
+<h3 align="center">Desenvolvedor Full Stack</h3>
+
+---
+
+💻 Desenvolvedor focado em aplicações web  
+🚀 Trabalhando com **Node.js, React e JavaScript**  
+📚 Estudando **Sistemas para Internet**  
+🧠 Sempre aprendendo novas tecnologias  
+
 Desenvolvedor FullStacks na Vexur, estudando de Tecnologia para sistemas de internet no Instituto Federal do Paraná.
 
 Comecei a atuar na área da Informática como técnico de informática aos 17 anos, trabalhei por 4 anos como técnico e em conjunto despertou minha experiência na programação, onde conclui cursos de HTML, CSS, JavaScript, React, TypeScript, Git e GitHub.
