@@ -6,7 +6,7 @@
 ---
 
 💻 Desenvolvedor focado em aplicações web  
-🚀 Trabalhando com **Node.js, React e JavaScript**  
+🚀 Trabalhando com **Node.js, Vue.js e JavaScript**  
 📚 Estudando **Sistemas para Internet**  
 🧠 Sempre aprendendo novas tecnologias  
 
