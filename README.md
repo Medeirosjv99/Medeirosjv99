@@ -91,18 +91,6 @@ Git • GitHub • npm
   <a href = "medeirosjv.963@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-vitor-de-medeiros-48ab17210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
  
-## Minhas Estatísticas do GitHub:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Medeirosjv99&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosjv99&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medeirosjv99&theme=tokyonight"/>
-</p
-
-  ##
 
 ## 🎓 Certificações
 
