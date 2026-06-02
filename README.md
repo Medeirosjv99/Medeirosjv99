@@ -86,7 +86,7 @@ Git • GitHub • npm
   
 ## Redes sociais:
 <div> 
-  <a href="https://www.instagram.com/medeiros_jv99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/mdrs_99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/areiajv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "medeirosjv.963@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-vitor-de-medeiros-48ab17210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
@@ -95,37 +95,31 @@ Git • GitHub • npm
 ## 🎓 Certificações
 
 <table>
+  
 <tr>
-<td align="center">
-<img width="300" src="./UC-2bf368f7-4601-470b-8155-ecbba5a24704.jpg"/><br>
-Formação Front-end - HTML, CSS, JavaScript, React e +
+<td align="center"><img width="300" src="./UC-2bf368f7-4601-470b-8155-ecbba5a24704.jpg"/><br>Formação Front-end - HTML, CSS, JavaScript, React e +
 </td>
 
-<td align="center">
-<img width="300" src="./UC-97c0c872-4ab5-4f12-93ef-b3b1c8bc2303.jpg"/><br>
-Node.js do Zero a Maestria com diversos Projetos
+<td align="center"><img width="300" src="./UC-97c0c872-4ab5-4f12-93ef-b3b1c8bc2303.jpg"/><br>Node.js do Zero a Maestria com diversos Projetos
 </td>
-<td align="center">
-<img width="300" src="./UC-ffa00007-aacd-470e-bc53-e1da8f400dc2.jpg"/><br>
-React do Zero a Maestria (c/ hooks, router, API, Projetos)
+
+<td align="center"><img width="300" src="./UC-ffa00007-aacd-470e-bc53-e1da8f400dc2.jpg"/><br>React do Zero a Maestria (c/ hooks, router, API, Projetos)
 </td>
+
 </tr>
 </table>
 
 <table>
 <tr>
-<td align="center">
-<img width="300" src="./UC-4f85e94e-b479-4c8f-8173-57f55ca7d1cd.jpg"/><br>
-Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)
+<td align="center"><img width="300" src="./UC-4f85e94e-b479-4c8f-8173-57f55ca7d1cd.jpg"/><br>Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)
 </td>
-<td align="center">
-<img width="300" src="./image (1).png"/><br>
-Neo4j Certified Professional
+  
+<td align="center"><img width="300" src="./image (1).png"/><br>Neo4j Certified Professional
 </td>
-<td align="center">
-<img width="300" src="./image (3).png"/><br>
-Boas vindas ao Bootcamp Bradesco - GenAI, Dados & Cyber
+
+<td align="center"><img width="300" src="./image (3).png"/><br>Boas vindas ao Bootcamp Bradesco - GenAI, Dados & Cyber
 </td>
+
 </tr>
 </table>
   
