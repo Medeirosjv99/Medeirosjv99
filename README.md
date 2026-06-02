@@ -10,15 +10,29 @@
 📚 Estudando **Sistemas para Internet**  
 🧠 Sempre aprendendo novas tecnologias  
 
-Desenvolvedor FullStacks na Vexur, estudando de Tecnologia para sistemas de internet no Instituto Federal do Paraná.
+## 👨‍💻 Sobre mim
 
-Comecei a atuar na área da Informática como técnico de informática aos 17 anos, trabalhei por 4 anos como técnico e em conjunto despertou minha experiência na programação, onde conclui cursos de HTML, CSS, JavaScript, React, TypeScript, Git e GitHub.
+Sou Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web utilizando Node.js, Vue.js, JavaScript e bancos de dados relacionais e não relacionais.
 
-Atualmente sou dev Full stack na Vexur, onde consigo ganhar experiencias e aprendizado.
+Atualmente atuo como Desenvolvedor Full Stack na Vexur e curso Sistemas para Internet no Instituto Federal do Paraná (IFPR).
 
-  ##
+Minha trajetória na tecnologia começou aos 17 anos como Técnico de Informática, área em que trabalhei por 4 anos. Durante esse período desenvolvi interesse por programação e passei a me especializar em desenvolvimento web.
 
-### Meus conhecimentos:
+  ## 🚀 Tecnologias aplicadas atualmente
+
+### Front-end
+HTML • CSS • JavaScript • Vue.js • React
+
+### Back-end
+Node.js • Express
+
+### Banco de Dados
+MySQL • MongoDB • Neo4j
+
+### Ferramentas
+Git • GitHub • npm
+
+## Meus conhecimentos:
 
  <div>
   <a href="https://github.com/Medeirosjv99">
@@ -70,25 +84,63 @@ Atualmente sou dev Full stack na Vexur, onde consigo ganhar experiencias e apren
     
    </div>
   
-  ##
-  
-  ### Redes sociais:
+## Redes sociais:
 <div> 
   <a href="https://www.instagram.com/medeiros_jv99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/areiajv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "medeirosjv.963@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-vitor-de-medeiros-48ab17210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
  
+## Minhas Estatísticas do GitHub:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Medeirosjv99&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosjv99&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medeirosjv99&theme=tokyonight"/>
+</p
+
   ##
- 
-### Minhas Estatísticas do GitHub:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medeirosjv99&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosjv99&layout=compact)
+## 🎓 Certificações
 
-  ##
+<table>
+<tr>
+<td align="center">
+<img width="300" src="./UC-2bf368f7-4601-470b-8155-ecbba5a24704.jpg"/><br>
+Formação Front-end - HTML, CSS, JavaScript, React e +
+</td>
 
-### Minhas Certificações
+<td align="center">
+<img width="300" src="./UC-97c0c872-4ab5-4f12-93ef-b3b1c8bc2303.jpg"/><br>
+Node.js do Zero a Maestria com diversos Projetos
+</td>
+<td align="center">
+<img width="300" src="./UC-ffa00007-aacd-470e-bc53-e1da8f400dc2.jpg"/><br>
+React do Zero a Maestria (c/ hooks, router, API, Projetos)
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+<img width="300" src="./UC-4f85e94e-b479-4c8f-8173-57f55ca7d1cd.jpg"/><br>
+Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)
+</td>
+<td align="center">
+<img width="300" src="./image (1).png"/><br>
+Neo4j Certified Professional
+</td>
+<td align="center">
+<img width="300" src="./image (3).png"/><br>
+Boas vindas ao Bootcamp Bradesco - GenAI, Dados & Cyber
+</td>
+</tr>
+</table>
+  
 </div>
 
 
