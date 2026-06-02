@@ -20,16 +20,16 @@ Minha trajetória na tecnologia começou aos 17 anos como Técnico de Informáti
 
   ## 🚀 Tecnologias aplicadas atualmente
 
-### Front-end
+## Front-end
 HTML • CSS • JavaScript • Vue.js • React
 
-### Back-end
+## Back-end
 Node.js • Express
 
-### Banco de Dados
+## Banco de Dados
 MySQL • MongoDB • Neo4j
 
-### Ferramentas
+## Ferramentas
 Git • GitHub • npm
 
 ## Meus conhecimentos:
