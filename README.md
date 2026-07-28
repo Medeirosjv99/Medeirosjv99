@@ -22,7 +22,7 @@ Gosto de aprender novas tecnologias, enfrentar desafios e desenvolver soluções
 
 ---
 
-## 💻 Tecnologias
+## 💻 Tecnologias nas quais atuo atualmente
 
 ### 🎨 Front-end
 
