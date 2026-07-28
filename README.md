@@ -31,58 +31,6 @@ MySQL • MongoDB • Neo4j
 
 ## Ferramentas
 Git • GitHub • npm
-
-## Meus conhecimentos:
-
- <div>
-  <a href="https://github.com/Medeirosjv99">
-  <img height="180cm" src="https://github-readme
-</div>
-<div style="display: inline_block"><br>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-HTML5-ff5900?style=for-the-badge&logo=HTML5&logoColor=white" target="_blank">
-  </a> 
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-CSS3-00aaff?style=for-the-badge&logo=CSS&logoColor=white" target="_blank">
-  </a>  
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-React-5785ff?style=for-the-badge&logo=React&logoColor=white" target="_blank">
-  </a>  
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-JavaScript-ffe400?style=for-the-badge&logo=JavaScript&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-TypeScript-0800ff?style=for-the-badge&logo=TypeScript&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-NodeJS-00f36f?style=for-the-badge&logo=Node.JS&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-npm-ff3600?style=for-the-badge&logo=npm&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-Express-8fe0ff?style=for-the-badge&logo=Express&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-Sequelize-63b3ff?style=for-the-badge&logo=Sequelize&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-Neo4j-0083ff?style=for-the-badge&logo=Neo4j&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-MongoDB-68ed00?style=for-the-badge&logo=MongoDB&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-MYSQL-5785ff?style=for-the-badge&logo=MYSQL&logoColor=white" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black" target="_blank">
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-Git-FF5733?style=for-the-badge&logo=Git&logoColor=white" target="_blank">
-  </a>
-    
-   </div>
   
 ## Redes sociais:
 <div> 
